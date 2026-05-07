@@ -1,0 +1,7 @@
+Flask==3.1.2
+requests==2.32.5
+python-dotenv==1.2.2
+redis==7.4.0
+flask-limiter==3.5.0
+gunicorn==26.0.0
+chromadb==1.5.9
